@@ -1,8 +1,8 @@
-# 👋 Hi, I’m [Onu Michael] 
+# 👋 Hi, I’m Onu Michael 
 ### **Software Engineer** | **Full-Stack Developer** | **DevOps Enthusiast**
 
 🚀 Passionate about building scalable web applications, automating infrastructure, and solving complex problems with code.  
-🌱 Currently learning [Current Learning Focus, e.g., "Kubernetes" or "Serverless Architectures"].  
+🌱 Currently learning Current Learning Focus, e.g., "Kubernetes" or "Serverless Architectures".  
 💡 ⚡ **Fun Fact**: I once wrote a script that sends me cat GIFs every time my code fails a test.  
 *(`try/catch` + `fetch()` + Slack API = emotional support debugging!)*.
 
@@ -35,15 +35,15 @@
 ---
 
 ### 📈 **GitHub Stats**
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=[wizzyonu]&show_icons=true&theme=radical)](https://github.com/[wizzyonu])  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[wizzyonu]&layout=compact&theme=radical)](https://github.com/[wizzyonu])
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=wizzyonu&show_icons=true&theme=radical)](https://github.com/wizzyonu)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wizzyonu&layout=compact&theme=radical)](https://github.com/wizzyonu)
 
 ---
 
 ### 🌐 **Let’s Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://linkedin.com/in/[michael-onu-425a81278]]
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)]([https://x.com/[Phantom_Chi]]
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-onu-425a81278/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Phantom_Chi)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
 
 ---
 
@@ -53,6 +53,6 @@
 
 ---
 
-📫 **How to reach me**: [michaelonu39@gmail.com]  
-🎯 **Pronouns**: [ He/Him ]  
-⚡ **Quote**: [ First, solve the problem. Then, write the code.]
+📫 **How to reach me**: michaelonu39@gmail.com  
+🎯 **Pronouns**:  He/Him   
+⚡ **Quote**:  First, solve the problem. Then, write the code.
